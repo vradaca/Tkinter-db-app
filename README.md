@@ -5,7 +5,7 @@
 
 ## Description
 
-This project provides a graphical user interface (GUI) built with Tkinter for interacting with a database. It allows users to perform basic database operations such as viewing, adding, editing, and deleting records. The application aims to provide a user-friendly experience for managing data without requiring direct SQL queries.
+This project provides a graphical user interface (GUI) built with Tkinter for interacting with a database. It enables users to perform basic database operations, including viewing, adding, editing, and deleting records. The application aims to provide a user-friendly experience for managing data without requiring direct SQL queries.
 
 ## Features
 
@@ -63,7 +63,6 @@ bash
 
 ## Contact
 
-> For questions or feedback, please contact: [Your Name](your.email@example.com)
+> For questions or feedback, please contact: [Veljko Radača](veljko.radaca00@gmail.com)
 
-> Replace with your actual name and email address.
 
