@@ -55,12 +55,6 @@ bash
 -   Test your code before submitting a pull request.
 -   Follow the project's coding style.
 
-## License
-
-> This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-> If you don't have a LICENSE file, create one and specify the license type.  You can use a service like choosealicense.com to help you choose a license.
-
 ## Contact
 
 > For questions or feedback, please contact: [Veljko Radača](veljko.radaca00@gmail.com)
